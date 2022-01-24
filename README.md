@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CodingTXP
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Game Development
+- 🌱 I’m currently learning C#
 
 <!---
 CodingTXP/CodingTXP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
